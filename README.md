@@ -1,4 +1,5 @@
 # Job Cost Calculator
+Built while learning Python to automate quoting based on my experience running a fabrication shop.
 
 A Python terminal tool that generates job quotes for metal fabrication work based on labor time, pricing type, and profit margin.
 
